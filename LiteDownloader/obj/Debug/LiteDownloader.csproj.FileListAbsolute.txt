@@ -1,0 +1,15 @@
+F:\Course\Desktop Programming\C#\Projects\LiteDownloader\LiteDownloader\bin\Debug\LiteDownloader.exe.config
+F:\Course\Desktop Programming\C#\Projects\LiteDownloader\LiteDownloader\bin\Debug\LiteDownloader.exe
+F:\Course\Desktop Programming\C#\Projects\LiteDownloader\LiteDownloader\bin\Debug\LiteDownloader.pdb
+F:\Course\Desktop Programming\C#\Projects\LiteDownloader\LiteDownloader\bin\Debug\MetroFramework.Design.dll
+F:\Course\Desktop Programming\C#\Projects\LiteDownloader\LiteDownloader\bin\Debug\MetroFramework.dll
+F:\Course\Desktop Programming\C#\Projects\LiteDownloader\LiteDownloader\bin\Debug\MetroFramework.Fonts.dll
+F:\Course\Desktop Programming\C#\Projects\LiteDownloader\LiteDownloader\obj\Debug\LiteDownloader.csproj.AssemblyReference.cache
+F:\Course\Desktop Programming\C#\Projects\LiteDownloader\LiteDownloader\obj\Debug\LiteDownloader.frmMain.resources
+F:\Course\Desktop Programming\C#\Projects\LiteDownloader\LiteDownloader\obj\Debug\LiteDownloader.Properties.Resources.resources
+F:\Course\Desktop Programming\C#\Projects\LiteDownloader\LiteDownloader\obj\Debug\LiteDownloader.csproj.GenerateResource.cache
+F:\Course\Desktop Programming\C#\Projects\LiteDownloader\LiteDownloader\obj\Debug\LiteDownloader.csproj.CoreCompileInputs.cache
+F:\Course\Desktop Programming\C#\Projects\LiteDownloader\LiteDownloader\obj\Debug\LiteDown.A4BC6CD7.Up2Date
+F:\Course\Desktop Programming\C#\Projects\LiteDownloader\LiteDownloader\obj\Debug\LiteDownloader.exe
+F:\Course\Desktop Programming\C#\Projects\LiteDownloader\LiteDownloader\obj\Debug\LiteDownloader.pdb
+F:\Course\Desktop Programming\C#\Projects\LiteDownloader\LiteDownloader\obj\Debug\LiteDownloader.frmDownloader.resources
